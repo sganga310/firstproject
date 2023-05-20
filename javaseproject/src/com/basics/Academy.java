@@ -1,2 +1,3 @@
-package com.basics;public interface Academy {
+package com.basics;
+public interface Academy {
 }
